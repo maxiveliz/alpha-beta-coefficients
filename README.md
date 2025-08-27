@@ -16,9 +16,12 @@ It includes **four Jupyter Notebooks** and **four CSV datasets**, which contain 
   Four Jupyter Notebook files with the step-by-step implementation of the methodology:
 
     1- _alpha,_beta_coefficients_in_DS1_pynb
-    2-  _alpha,_beta_in_DS2
-    3-  _alpha,_beta_in_DS3
-    4-  _alpha,_beta_in_DS4
+  
+    2-  _alpha,_beta_in_DS2.pynb
+  
+    3-  _alpha,_beta_in_DS3.pynb
+  
+    4-  _alpha,_beta_in_DS4.pynb
 
 - `datasets/`  
   Four CSV datasets used in the experiments: DS1.csv, DS2.csv, DS3.csv and DS4.csv  
