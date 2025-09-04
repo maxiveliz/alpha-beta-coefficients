@@ -54,11 +54,13 @@ You can run them in one of the following ways:
 
 ## Data files
 
-Each notebook requires a specific CSV file to run properly.  
-Please ensure that the correct file path is specified before execution.
+Each Python notebook requires specifying the directory path of the corresponding dataset folder in order to properly load the associated CSV files.
 
-For example:  
-- Use **`DS1.csv`** together with the notebook **`alpha_beta_coefficient.ipynb`**.  
+For example, the notebook alpha_beta_coefficients_in_DS1.ipynb requires providing the path to the DS1 folder, where the relevant dataset files are located.
+
+This ensures that every notebook is correctly linked to the dataset it is designed to process.
+
+
 
 
 ## Contact
