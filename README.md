@@ -2,8 +2,8 @@
 Manuscript ID: IEEE LATAM submission ID 9595
 
 Autors: 
-Maximiliano E. Véliz (mveliz@campus.ungs.edu.ar)
-Alejandro D. Otero (alejandro.otero@csc.conicet.gov.ar)
+Maximiliano E. Véliz 
+Alejandro D. Otero 
 
 # Reproducibility Repository
 
