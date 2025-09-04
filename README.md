@@ -60,6 +60,15 @@ For example, the notebook alpha_beta_coefficients_in_DS1.ipynb requires providin
 
 This ensures that every notebook is correctly linked to the dataset it is designed to process.
 
+## Itsy Bitsy M0 Express Implementation
+
+The folder Itsy Bitsy M0 Express contains example codes written in CircuitPython for implementing the proposed methodology on the microcontroller.
+
+Inside the subfolder alpha, the file code.py corresponds to the first application.
+
+Inside the subfolder beta, the file code.py corresponds to the second application.
+
+For both applications, the CSV data file must be preloaded into the FLASH memory of the Adafruit Itsy Bitsy M0 Express board before execution.
 
 
 
