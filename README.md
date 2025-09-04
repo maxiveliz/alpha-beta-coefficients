@@ -1,4 +1,4 @@
-# Non-intrusive Load Disaggregation based on Digital Signal Processing for Microcontroller Application. //
+# Non-intrusive Load Disaggregation based on Digital Signal Processing for Microcontroller Application
 Manuscript ID: IEEE LATAM submission ID 9595
 
 Autors: 
