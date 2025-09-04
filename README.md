@@ -43,12 +43,21 @@ You can run them in one of the following ways:
      jupyter notebook
      ```
 
-2. **Execution in Google Colab (recommended)**
+2. **Execution in Google Colab**
    - No installation required.
    - Only a Google account is needed.
    - Each notebook can be opened directly in Colab using the following badge:
 
   Colab: https://colab.research.google.com/
+
+## Data files
+
+Each notebook requires a specific CSV file to run properly.  
+Please ensure that the correct file path is specified before execution.
+
+For example:  
+- Use **`DS1.csv`** together with the notebook **`alpha_beta_coefficient.ipynb`**.  
+
 
 ## Contact
 For questions or replication of results:  
