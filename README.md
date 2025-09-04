@@ -24,7 +24,9 @@ It includes **four Jupyter Notebooks** and **four CSV datasets**, which contain 
     4-  _alpha,_beta_in_DS4.pynb
 
 - `datasets/`  
-  Four CSV datasets used in the experiments: DS1.csv, DS2.csv, DS3.csv and DS4.csv  
+  The datasets used in this repository are provided in the compressed file Stasets.rar.
+  This archive contains four folders: DS1, DS2, DS3, and DS4.
+  Each folder includes a collection of CSV files that are associated with the corresponding experiments and analyses presented in the notebooks.
 
 
 ## Requirements
