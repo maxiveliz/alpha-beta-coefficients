@@ -50,5 +50,9 @@ You can run them in one of the following ways:
 
   Colab: https://colab.research.google.com/
 
+## Contact
+For questions or replication of results:  
+mveliz@campus.ungs.edu.ar or alejandro.otero@csc.conicet.gov.ar
+
 
 
