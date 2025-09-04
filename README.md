@@ -48,9 +48,7 @@ You can run them in one of the following ways:
    - Only a Google account is needed.
    - Each notebook can be opened directly in Colab using the following badge:
 
-  Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
-
-> **Note:** Alternatively, you may use [Anaconda](https://www.anaconda.com/) to install a full Python distribution with Jupyter pre-installed.
+  Colab: https://colab.research.google.com/
 
 
 
