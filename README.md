@@ -29,7 +29,7 @@ It includes **four Jupyter Notebooks** and **four CSV datasets**, which contain 
 
 ## Requirements
 
-The programs in this repository are written in **Python** and provided as **Jupyter Notebooks**.  
+The programs in this repository are written in Python and provided as Jupyter Notebooks.  
 You can run them in one of the following ways:
 
 1. **Local execution**
