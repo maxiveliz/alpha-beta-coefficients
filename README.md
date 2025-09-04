@@ -1,5 +1,5 @@
-Non-intrusive Load Disaggregation based on Digital Signal Processing for Microcontroller Application. //
-ID: 9595
+# Non-intrusive Load Disaggregation based on Digital Signal Processing for Microcontroller Application. //
+Manuscript ID: IEEE LATAM submission ID 9595
 
 Autors: 
 Maximiliano E. Véliz (mveliz@campus.ungs.edu.ar)
@@ -25,6 +25,32 @@ It includes **four Jupyter Notebooks** and **four CSV datasets**, which contain 
 
 - `datasets/`  
   Four CSV datasets used in the experiments: DS1.csv, DS2.csv, DS3.csv and DS4.csv  
+
+
+## Requirements
+
+The programs in this repository are written in **Python** and provided as **Jupyter Notebooks**.  
+You can run them in one of the following ways:
+
+1. **Local execution**
+   - Install [Python 3.x](https://www.python.org/downloads/).
+   - Install Jupyter Notebook or JupyterLab:
+     ```bash
+     pip install notebook
+     ```
+   - Launch the notebook with:
+     ```bash
+     jupyter notebook
+     ```
+
+2. **Execution in Google Colab (recommended)**
+   - No installation required.
+   - Only a Google account is needed.
+   - Each notebook can be opened directly in Colab using the following badge:
+
+     [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
+
+> **Note:** Alternatively, you may use [Anaconda](https://www.anaconda.com/) to install a full Python distribution with Jupyter pre-installed.
 
 
 
